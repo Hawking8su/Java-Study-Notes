@@ -81,7 +81,7 @@ IntelliJ IDEA Professional中集成了Maven环境，所以不需要在本地安�
 
 第3步：右击pom.xml --> Maven --> reload project
 
-![image-20210717233731245](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20210717233731245.png)
+![image-20210717233731245](./How-to-use-Maven--Win10如何使用Maven.assetsimage-20210717233731245.png)
 
 注意：如果是第一次配置Maven，且上述步骤失败，则可以先尝试以下操作：
 

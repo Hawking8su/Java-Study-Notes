@@ -10,7 +10,7 @@ Background: because IDEA has built-in Gradle plug-ins, so you won't need to inst
 
 Step 1: Create new project --> Gradle
 
-![image-20210717231151921](E:\04_Blog\00_GithubRepos\Java-Study-Notes\How-to-use-Gradle.assets\image-20210717231151921.png)
+![image-20210717231151921](.\How-to-use-Gradle.assets\image-20210717231151921.png)
 
 Step 2: The project will start to build automatically, after it finishes, modify `build.gradle` file: 
 
@@ -47,13 +47,13 @@ tasks.withType(JavaCompile) {
 
 Step 3: Rebuild the project for the former changes to be effective: Build --> Reload Gradle Project
 
-![image-20210717231625127](E:\04_Blog\00_GithubRepos\Java-Study-Notes\How-to-use-Gradle.assets\image-20210717231625127.png)
+![image-20210717231625127](.\How-to-use-Gradle.assets\image-20210717231625127.png)
 
 
 
 Step 4: Check if the target dependencies appeared in the External libraries.
 
-![image-20210717232055678](E:\04_Blog\00_GithubRepos\Java-Study-Notes\How-to-use-Gradle.assets\image-20210717232055678.png)
+![image-20210717232055678](.\How-to-use-Gradle.assets\image-20210717232055678.png)
 
 
 
