@@ -18,3 +18,13 @@ final long endTime = System.currentTimeMillis();
 System.out.println("Total execution time: " + (endTime - startTime));
 ```
 
+
+
+## Arrays
+
+统计数组中不同元素的个数
+
+```java
+long count = Arrays.stream(nums).distinct().count();
+```
+
