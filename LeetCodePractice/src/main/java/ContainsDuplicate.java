@@ -5,7 +5,7 @@ import java.util.*;
  * 数据结构入门
  * https://leetcode-cn.com/problems/contains-duplicate/
  * */
-public class Solution {
+public class ContainsDuplicate {
 
     /**
      *  1.存在重复元素 - containsDuplicate
@@ -46,8 +46,8 @@ public class Solution {
 
     public static void main(String[] args) {
         int[] nums = {1,4,3,2};
-        Solution solution = new Solution();
-        boolean res = solution.containsDuplicate01(nums);
+        ContainsDuplicate containsDuplicate = new ContainsDuplicate();
+        boolean res = containsDuplicate.containsDuplicate01(nums);
 
         System.out.println("result: " + res);
     }
