@@ -1,4 +1,6 @@
-// Adapt the Fibonacci class to make it Iterable
+// Adapt the generics.Fibonacci class to make it Iterable
+import generics.Fibonacci;
+
 import java.util.*;
 
 public class IterableFibonacci extends Fibonacci implements Iterable<Integer>{

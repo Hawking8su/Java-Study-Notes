@@ -1,4 +1,4 @@
-// Generate a Fibonacci sequence
+package generics;// Generate a generics.Fibonacci sequence
 import net.mindview.util.*;
 
 public class Fibonacci implements Generator<Integer>{

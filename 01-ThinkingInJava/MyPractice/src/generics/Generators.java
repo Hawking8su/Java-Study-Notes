@@ -1,4 +1,4 @@
-// A utility to use with Generators.
+package generics;// A utility to use with generics.Generators.
 import generics.coffee.*;
 import java.util.*;
 import net.mindview.util.*;
